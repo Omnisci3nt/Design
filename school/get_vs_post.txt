@@ -1,0 +1,2 @@
+Een GET request krijgt data van de server.
+Een POST request stuurt data naar de server.
